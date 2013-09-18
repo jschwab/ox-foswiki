@@ -12,5 +12,5 @@
 ;; add foswiki
 (add-to-list 'load-path (expand-file-name "/home/jschwab/Software/ox-foswiki" t))
 
-
+(require 'ox-fw)
 

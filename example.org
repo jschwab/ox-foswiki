@@ -1,0 +1,14 @@
+* Meeting Notes
+** First Topic
+*** Subtopic 1
++ a point
+  1. one subpoint
+  2. two subpoint
++ another point
+  + red subpoint
+  + blue subpoint
+*** Subtopic 2
++ an *important* point
++ an /interesting/ point
+** Second Topic
+One long announcement without any particular structure.
