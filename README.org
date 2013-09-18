@@ -1,3 +1,8 @@
+* About
+This is a naive and extremely simple Foswiki back-end for the org-mode
+(v8.0) export engine.  It is based off of ox-md.el, but with a lot of
+things I don't need removed.  It "correctly" exports the following
+"Meeting Notes" subtree which is all I need at the moment.
 * Meeting Notes
 ** First Topic
 *** Subtopic 1
